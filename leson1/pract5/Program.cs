@@ -1,2 +1,3 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿// Выдает случайное чилсо из отрезка 10,99 и показывает наибольшшее числр
+//78-8
+
